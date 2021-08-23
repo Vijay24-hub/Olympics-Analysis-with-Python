@@ -16,6 +16,13 @@ The datasets used in this analysis can be download from Kaggle:
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 ```
 
+<br>
+<br>
+<p align='center'>
+<img src='https://raw.githubusercontent.com/Vijay24-hub/Olympics-Analysis-with-Python/master/img2.jpeg'>
+</p>
+<br>
+<br>
 ### Tools
 * [Jupyter notebook](https://jupyter.org//) 
 
