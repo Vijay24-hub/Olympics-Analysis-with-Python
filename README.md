@@ -15,6 +15,11 @@ The datasets used in this analysis can be download from Kaggle:
 ```console
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 ```
+
+```console
+https://www.kaggle.com/berkayalan/2021-olympics-medals-in-tokyo
+```
+
 The Required libraries to import for Data manipulation and Data Visualisation
 ```console
 import os
